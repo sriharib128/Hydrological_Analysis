@@ -1,0 +1,12 @@
+flask
+flask-cors
+rasterio
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
+pandas
+Pillow
+scikit-image
