@@ -40,7 +40,7 @@ function App() {
               className="data-[state=active]:bg-white data-[state=active]:shadow-md transition-all"
             >
               <TestTube2 className="w-4 h-4 mr-2" />
-              Quality Testing
+              DQT
             </TabsTrigger>
           </TabsList>
 

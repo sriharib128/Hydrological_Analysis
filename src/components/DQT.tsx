@@ -61,7 +61,7 @@ function DQT() {
           <FileUpload
             id="water_quality"
             name="water_quality"
-            label="Water Quality Data"
+            label="Input Data"
             accept=".csv"
           />
           <SubmitButton
